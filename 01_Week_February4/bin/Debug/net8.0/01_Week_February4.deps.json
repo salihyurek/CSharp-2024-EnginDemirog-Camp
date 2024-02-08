@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FirstAssignment/1.0.0": {
+      "01_Week_February4/1.0.0": {
         "runtime": {
-          "FirstAssignment.dll": {}
+          "01_Week_February4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FirstAssignment/1.0.0": {
+    "01_Week_February4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

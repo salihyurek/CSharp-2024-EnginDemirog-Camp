@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/Week1---February4/FirstAssignment/FirstAssignment.csproj",
-      "projectName": "FirstAssignment",
-      "projectPath": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/Week1---February4/FirstAssignment/FirstAssignment.csproj",
+      "projectUniqueName": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/01_Week_February4.csproj",
+      "projectName": "01_Week_February4",
+      "projectPath": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/01_Week_February4.csproj",
       "packagesPath": "/Users/salihyurek/.nuget/packages/",
-      "outputPath": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/Week1---February4/FirstAssignment/obj/",
+      "outputPath": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/salihyurek/.nuget/NuGet/NuGet.Config"
