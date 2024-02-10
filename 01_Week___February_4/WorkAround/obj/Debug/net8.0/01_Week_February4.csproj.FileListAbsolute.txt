@@ -1,0 +1,14 @@
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/bin/Debug/net8.0/01_Week_February4
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/bin/Debug/net8.0/01_Week_February4.deps.json
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/bin/Debug/net8.0/01_Week_February4.runtimeconfig.json
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/bin/Debug/net8.0/01_Week_February4.dll
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/bin/Debug/net8.0/01_Week_February4.pdb
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.AssemblyInfoInputs.cache
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.AssemblyInfo.cs
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.csproj.CoreCompileInputs.cache
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.dll
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/refint/01_Week_February4.dll
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.pdb
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/01_Week_February4.genruntimeconfig.cache
+/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week_February4/obj/Debug/net8.0/ref/01_Week_February4.dll

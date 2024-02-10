@@ -1,0 +1,23 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.1.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/service/KPSPublic.asmx"
+    ],
+    "namespaceMappings": [
+      "*, Business.KPSPublic"
+    ],
+    "outputFile": "MernisServiceReference.cs",
+    "references": [
+      "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/Business/bin/Debug/netstandard2.1/Entities.dll",
+      "System.Reflection.DispatchProxy, {System.Reflection.DispatchProxy, 4.5.0}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 4.5.0}",
+      "System.Security.Cryptography.Xml, {System.Security.Cryptography.Xml, 4.5.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 4.5.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.5.0}"
+    ],
+    "targetFramework": "netstandard2.1",
+    "typeReuseMode": "All"
+  }
+}

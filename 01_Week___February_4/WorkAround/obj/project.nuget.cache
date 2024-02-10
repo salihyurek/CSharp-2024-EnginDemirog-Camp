@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XZ03CtmF7R13PPA9Uq5PG39WuEsFw/oKDBCuXhiNCMAKHpHlu9nBI/+5ggINMWaDBlPiT8oe+NfitMoiO2wUg==",
+  "success": true,
+  "projectFilePath": "/Users/salihyurek/Documents/C#-Camp-2024-EnginDemirog/01_Week___February_4/WorkAround/WorkAround.csproj",
+  "expectedPackageFiles": [
+    "/Users/salihyurek/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.private.servicemodel/4.6.0/system.private.servicemodel.4.6.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.reflection.dispatchproxy/4.5.0/system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.cryptography.pkcs/4.5.0/system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.cryptography.xml/4.5.0/system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.servicemodel.duplex/4.6.0/system.servicemodel.duplex.4.6.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.servicemodel.http/4.6.0/system.servicemodel.http.4.6.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.servicemodel.nettcp/4.6.0/system.servicemodel.nettcp.4.6.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.servicemodel.primitives/4.6.0/system.servicemodel.primitives.4.6.0.nupkg.sha512",
+    "/Users/salihyurek/.nuget/packages/system.servicemodel.security/4.6.0/system.servicemodel.security.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
