@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/bin/Debug/Loops.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/bin/Debug/Loops.pdb
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/obj/Debug/Loops.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/obj/Debug/Loops.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/obj/Debug/Loops.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Loops/obj/Debug/Loops.pdb

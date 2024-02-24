@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/bin/Debug/Strings.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/bin/Debug/Strings.pdb
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/obj/Debug/Strings.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/obj/Debug/Strings.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/obj/Debug/Strings.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Strings/obj/Debug/Strings.pdb

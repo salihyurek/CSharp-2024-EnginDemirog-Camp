@@ -1,0 +1,6 @@
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/bin/Debug/Classes.exe
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/bin/Debug/Classes.pdb
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/obj/Debug/Classes.csproj.AssemblyReference.cache
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/obj/Debug/Classes.csproj.CoreCompileInputs.cache
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/obj/Debug/Classes.exe
+/Users/salihyurek/Software/C#-Camp-2024-EnginDemirog/02_Week___February_11/Assignment 1/CSharpCourse/Classes/obj/Debug/Classes.pdb

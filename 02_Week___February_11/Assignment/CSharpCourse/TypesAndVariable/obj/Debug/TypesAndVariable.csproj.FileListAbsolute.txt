@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/bin/Debug/TypesAndVariable.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/bin/Debug/TypesAndVariable.pdb
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/obj/Debug/TypesAndVariable.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/obj/Debug/TypesAndVariable.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/obj/Debug/TypesAndVariable.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/TypesAndVariable/obj/Debug/TypesAndVariable.pdb

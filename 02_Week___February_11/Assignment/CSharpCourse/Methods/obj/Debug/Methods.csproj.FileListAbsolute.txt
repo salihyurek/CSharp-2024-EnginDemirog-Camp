@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/bin/Debug/Methods.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/bin/Debug/Methods.pdb
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/obj/Debug/Methods.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/obj/Debug/Methods.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Methods/obj/Debug/Methods.pdb

@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/bin/Debug/Condition.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/bin/Debug/Condition.pdb
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/obj/Debug/Condition.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/obj/Debug/Condition.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/obj/Debug/Condition.exe
+/Users/salihyurek/RiderProjects/CSharpCourse/Condition/obj/Debug/Condition.pdb
