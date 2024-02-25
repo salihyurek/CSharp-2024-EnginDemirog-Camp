@@ -5,6 +5,7 @@
     <projectFile>Classes/Classes.csproj</projectFile>
     <projectFile>Condition/Condition.csproj</projectFile>
     <projectFile>Interfaces/Interfaces.csproj</projectFile>
+    <projectFile>InterfacesDemo/InterfacesDemo.csproj</projectFile>
     <projectFile>Loops/Loops.csproj</projectFile>
     <projectFile>Methods/Methods.csproj</projectFile>
     <projectFile>RecapDemo/RecapDemo.csproj</projectFile>
@@ -135,6 +136,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="InterfacesDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InterfacesDemo/InterfacesDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Loops" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -226,6 +245,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.InterfacesDemo" />
       <item itemvalue=".NET Project.Interfaces" />
       <item itemvalue=".NET Project.Arrays" />
       <item itemvalue=".NET Project.Classes" />
@@ -249,7 +269,7 @@
       <workItem from="1708792308584" duration="379000" />
       <workItem from="1708792701467" duration="685000" />
       <workItem from="1708891971704" duration="363000" />
-      <workItem from="1708892506388" duration="7681000" />
+      <workItem from="1708892506388" duration="8662000" />
     </task>
     <task id="LOCAL-00001" summary="02 Week">
       <option name="closed" value="true" />
