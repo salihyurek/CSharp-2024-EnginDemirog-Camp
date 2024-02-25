@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.Arrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -58,7 +59,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.TypesAndVariable">
+  <component name="RunManager" selected=".NET Project.Arrays">
     <configuration name="Arrays" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -103,7 +104,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Condition/Condition.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Conditionals/Conditionals.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -198,6 +199,7 @@
       <workItem from="1708792308584" duration="379000" />
       <workItem from="1708792701467" duration="685000" />
       <workItem from="1708891971704" duration="363000" />
+      <workItem from="1708892506388" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="02 Week">
       <option name="closed" value="true" />

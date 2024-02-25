@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariable", "TypesAndVariable\TypesAndVariable.csproj", "{E92C31DC-8589-4976-9F47-82EF0D14A842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition", "Condition\Condition.csproj", "{3A4119CF-5676-486B-818D-07C258AED9BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{3A4119CF-5676-486B-818D-07C258AED9BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{7AF56FA2-C6CF-49BC-B10B-B8398D686B1D}"
 EndProject
