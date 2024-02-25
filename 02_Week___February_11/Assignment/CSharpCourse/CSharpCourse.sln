@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{1C1D5F88-643E-45AF-87B6-C02D913F25AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{3FC18F9D-698A-463B-9D1A-BCFB9F8FFFC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{1C1D5F88-643E-45AF-87B6-C02D913F25AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C1D5F88-643E-45AF-87B6-C02D913F25AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C1D5F88-643E-45AF-87B6-C02D913F25AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC18F9D-698A-463B-9D1A-BCFB9F8FFFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC18F9D-698A-463B-9D1A-BCFB9F8FFFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC18F9D-698A-463B-9D1A-BCFB9F8FFFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC18F9D-698A-463B-9D1A-BCFB9F8FFFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
