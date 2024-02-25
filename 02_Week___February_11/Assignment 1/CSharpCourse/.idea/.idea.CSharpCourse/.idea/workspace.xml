@@ -4,8 +4,10 @@
     <projectFile>Arrays/Arrays.csproj</projectFile>
     <projectFile>Classes/Classes.csproj</projectFile>
     <projectFile>Condition/Condition.csproj</projectFile>
+    <projectFile>Interfaces/Interfaces.csproj</projectFile>
     <projectFile>Loops/Loops.csproj</projectFile>
     <projectFile>Methods/Methods.csproj</projectFile>
+    <projectFile>RecapDemo/RecapDemo.csproj</projectFile>
     <projectFile>Strings/Strings.csproj</projectFile>
     <projectFile>TypesAndVariable/TypesAndVariable.csproj</projectFile>
   </component>
@@ -35,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.Arrays.executor": "Run",
+    ".NET Project.Interfaces.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -59,11 +62,11 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.Arrays">
+  <component name="RunManager" selected=".NET Project.Interfaces">
     <configuration name="Arrays" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Arrays/bin/Debug/Arrays.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -73,7 +76,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -114,6 +117,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Interfaces" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Interfaces/bin/Debug/Interfaces.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interfaces/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Interfaces/Interfaces.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Loops" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -146,6 +167,24 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="RecapDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RecapDemo1/bin/Debug/RecapDemo1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecapDemo1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RecapDemo1/RecapDemo1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -186,6 +225,17 @@
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Interfaces" />
+      <item itemvalue=".NET Project.Arrays" />
+      <item itemvalue=".NET Project.Classes" />
+      <item itemvalue=".NET Project.Condition" />
+      <item itemvalue=".NET Project.Loops" />
+      <item itemvalue=".NET Project.Methods" />
+      <item itemvalue=".NET Project.RecapDemo" />
+      <item itemvalue=".NET Project.Strings" />
+      <item itemvalue=".NET Project.TypesAndVariable" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -199,7 +249,7 @@
       <workItem from="1708792308584" duration="379000" />
       <workItem from="1708792701467" duration="685000" />
       <workItem from="1708891971704" duration="363000" />
-      <workItem from="1708892506388" duration="1491000" />
+      <workItem from="1708892506388" duration="7681000" />
     </task>
     <task id="LOCAL-00001" summary="02 Week">
       <option name="closed" value="true" />
