@@ -1,0 +1,6 @@
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/bin/Debug/Inheritance.exe
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/bin/Debug/Inheritance.pdb
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/obj/Debug/Inheritance.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/obj/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/obj/Debug/Inheritance.exe
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 1/CSharpCourse/Inheritance/obj/Debug/Inheritance.pdb
