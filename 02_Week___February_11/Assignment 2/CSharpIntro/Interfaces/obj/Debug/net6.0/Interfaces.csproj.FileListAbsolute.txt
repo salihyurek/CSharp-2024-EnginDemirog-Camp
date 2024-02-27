@@ -1,0 +1,15 @@
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/bin/Debug/net6.0/Interfaces
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/refint/Interfaces.dll
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache
+/Users/salihyurek/RiderProjects/CSharp-2024-EnginDemirog-Camp/02_Week___February_11/Assignment 2/CSharpIntro/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll

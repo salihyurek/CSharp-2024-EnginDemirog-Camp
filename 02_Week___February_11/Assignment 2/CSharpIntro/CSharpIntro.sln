@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "Reference
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{B309F916-279C-475B-93E9-41B485B27D36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{955D803D-562E-47B5-8301-56E695CB5755}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B309F916-279C-475B-93E9-41B485B27D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B309F916-279C-475B-93E9-41B485B27D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B309F916-279C-475B-93E9-41B485B27D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955D803D-562E-47B5-8301-56E695CB5755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955D803D-562E-47B5-8301-56E695CB5755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955D803D-562E-47B5-8301-56E695CB5755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955D803D-562E-47B5-8301-56E695CB5755}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
