@@ -39,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.Arrays.executor": "Run",
+    ".NET Project.Inheritance.executor": "Run",
     ".NET Project.Interfaces.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -289,7 +290,7 @@
       <workItem from="1708792308584" duration="379000" />
       <workItem from="1708792701467" duration="685000" />
       <workItem from="1708891971704" duration="363000" />
-      <workItem from="1708892506388" duration="9275000" />
+      <workItem from="1708892506388" duration="10476000" />
     </task>
     <task id="LOCAL-00001" summary="02 Week">
       <option name="closed" value="true" />
